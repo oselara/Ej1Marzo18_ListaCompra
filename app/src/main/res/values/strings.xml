@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lista de la compra v1.0</string>
+    <string name="anadir">Añadir producto</string>
+    <string name="anadirlista">Añadir a la lista</string>
+    <string name="eliminar">Eliminar lista</string>
+    <string name="lista">LISTA DE LA COMPRA</string>
+    <string name="contenido">Descripción del contenido de la imagen</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="nombre">Escriba el producto</string>
+    <string name="cuanto">Escriba la cantidad</string>
+    <string name="desea">¿Desea eliminar </string>
+    <string name="lalista">la lista?</string>
+    <string name="elproducto">el producto </string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="editar">Editar producto </string>
+    <string name="eliminarprod">Eliminar producto </string>
+</resources>
